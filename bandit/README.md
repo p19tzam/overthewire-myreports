@@ -32,7 +32,7 @@ Level 5
 `koReBOKuIDDepwhWk7jZC0RTdopnAYKh`
 
 find -type f -size 1033c ! -executable
-
+ 
 
 Level6:
 `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`
