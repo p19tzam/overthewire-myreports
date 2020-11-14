@@ -1,4 +1,4 @@
-Report not walkthrough.
+<pre>Report not walkthrough.
 
 
 Level 0 > Level1
@@ -338,3 +338,4 @@ Keep an eye out for an announcement on our usual communication channels!
 In the meantime, you could play some of our other wargames.
 
 If you have an idea for an awesome new level, please let us know!
+</pre>
