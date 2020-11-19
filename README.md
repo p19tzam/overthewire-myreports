@@ -11,6 +11,6 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here you will find all the reports for all the challenges i have pwd from the easiest to the most difficult.
+Here you will find all the reports for all the challenges i have pwd from the easiest to the most difficult.
 
 <hr>
